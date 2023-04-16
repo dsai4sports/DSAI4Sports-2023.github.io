@@ -1,4 +1,28 @@
 ---
 ---
+$header-bg-color: #991515 !default;
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #000000;
+  background-image: url("../../images/web-banner-smaller.png");
+  height: 550px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container*/
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
