@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Introduction
+
+<h1 style="text-align: center;">Welcome to DSAI4Sports 2023!</h1>
+
 Sports analytics combines advanced analytics, domain knowledge and computational methods on sports data to generate 
 insights and deepen understanding into the various aspects of sports. This includes predicting most likely event outcomes, 
 identifying optimal strategies, understanding individual and collective performance, estimating player potential, etc. 
@@ -24,7 +26,7 @@ research community centered around this field.
 
 
 
-# Call For Papers
+## Call For Papers
 
 The core topic of the workshop is on Data Science, AI, and ML-based approaches for sports analytics, covering a broad range of sports activities like football, soccer, volleyball, badminton, tennis, basketball, golf, table tennis, hockey, car racing, swimming, and e-sports. We invite papers that demonstrate AI/ML use cases in the following broad (potentially overlapping) categories:
 
@@ -47,30 +49,32 @@ A small number of accepted papers will be selected to present during the worksho
 
 Any questions may be directed to the workshop email address: kdd.dsai4sports@gmail.com.
 
-# Key Dates
+## Key Dates
 * **Workshop Paper Submission**: May 26th, 2023
 * **Workshop Paper Notification**: June 13th, 2023
 * **Camera/Poster Ready**: July 21st, 2023
 * **Workshop Date**: August 7th, 2023
 
-# Tentative Program
+## Tentative Program
 * 08:00 - 09:00AM Keynote talks
 * 09:00 - 10:30AM Paper presentations
 * 10:30 - 11:00AM Poster session
 * 11:00AM - 12:00PM Panel discussion
 
-# Invited Speakers
-![Mike Band](./images/mike.jpg)
+## Invited Speakers
 
-**Mike Band** is a Senior Manager of Research and Analytics for Next Gen Stats at the National Football League. Since joining the team in 2018, he has been responsible for ideation, development, and communication of key stats and insights derived from player-tracking data for fans, NFL broadcast partners, and the 32 clubs alike. Mike brings a wealth of knowledge and experience to the team with a master’s degree in analytics from the University of Chicago, a bachelor's degree in sport management from the University of Florida, and experience in both the scouting department of the Minnesota Vikings and the recruiting department of Florida Gator Football.
+<img align="left" src="./images/mike-smaller.jpg" alt="Mike Band">
+
+[**Mike Band**](https://www.nfl.com/author/mike-band) is a Senior Manager of Research and Analytics for Next Gen Stats at the National Football League. Since joining the team in 2018, he has been responsible for ideation, development, and communication of key stats and insights derived from player-tracking data for fans, NFL broadcast partners, and the 32 clubs alike. Mike brings a wealth of knowledge and experience to the team with a master’s degree in analytics from the University of Chicago, a bachelor's degree in sport management from the University of Florida, and experience in both the scouting department of the Minnesota Vikings and the recruiting department of Florida Gator Football.
+
 
 <!--- 
 **Phil Martin**, Vice President of Data Products and ML Strategy at Fox Corporation. 
 --->
 
-![Zhutian (Zhu-Tian) Chen](./images/zhutian-smaller.jpeg)
+<img align="left" src="./images/zhutian-smaller.jpeg" alt="Zhutian Chen">
 
-**Zhutian (Zhu-Tian) Chen** is a PostDoc Fellow in the Visual Computing Group at Harvard University. His research is at the 
+[**Zhutian (Zhu-Tian) Chen**](https://chenzhutian.org/) is a PostDoc Fellow in the Visual Computing Group at Harvard University. His research is at the 
 intersection of Data Visualization, Human-Computer Interaction, and Augmented Reality. Specifically, he is interested 
 in improving the game-watching experience of sports by using embedded visualizations. He has developed a set of human-AI 
 systems that allow general users to efficiently visualize data into sports videos through natural interactions such as 
@@ -79,7 +83,8 @@ ACM CHI, and TVCG, and received three best paper nominations in IEEE VIS, the pr
 Before joining Harvard, he was a PostDoc in the Design Lab at UC San Diego. Zhutian received his Ph.D. in 
 Computer Science and Engineering from the Hong Kong University of Science and Technology.
 
-# Workshop Organizers
+
+## Workshop Organizers
 * **Huan Song** is an Applied Scientist with the Amazon ML Solutions Lab team at AWS, where he works on delivering custom ML solutions for high-impact customer use cases from a variety of industry verticals. His research interests are graph neural networks, computer vision, time series analysis and their industrial applications.
 
 * **Panpan Xu** is a Senior Applied Scientist and Manager with the Amazon ML Solutions Lab team at AWS. She is working on research and development of ML-solutions for high-impact customer applications in a variety of industrial verticals including sports, manufacturing, finance to accelerate their AI and cloud adoption. Her research interests include model interpretability, causal analysis, human-in-the-loop AI and interactive data visualization.
