@@ -3,3 +3,5 @@ description: Long Island, CA, USA. Aug 7, 2023
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+imagesurl: "./images/"
+thumbsurl: "./images/"

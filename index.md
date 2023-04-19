@@ -47,9 +47,10 @@ NOT be listed. Papers will be evaluated on, but not necessarily limited to, the 
 Accepted papers will be presented as posters during the workshop and listed on this website (non-archival/without proceedings). 
 A small number of accepted papers will be selected to present during the workshop as contributed talks. 
 
-Any questions may be directed to the workshop email address: kdd.dsai4sports@gmail.com.
+Any questions may be directed to the workshop email address: **kdd.dsai4sports@gmail.com**.
 
 ## Key Dates
+* **Submissions Open**: May 5th, 2023
 * **Workshop Paper Submission**: May 26th, 2023
 * **Workshop Paper Notification**: June 13th, 2023
 * **Camera/Poster Ready**: July 21st, 2023
@@ -85,6 +86,39 @@ Computer Science and Engineering from the Hong Kong University of Science and Te
 
 
 ## Workshop Organizers
+
+| ![Huan Song](images/huan-resize.jpg){:width="164"} | ![Panpan Xu](images/panpan-resize.png){:width="164"} | ![Lin Lee Cheong](images/linlee-resize.jpg){:width="164"} |          ![Henry Wang](images/henry-resize.jpg){:width="164"}           |
+|:--------------------------------------------------:|:----------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|  [Huan Song](https://www.linkedin.com/in/huans/)   | [Panpan Xu](https://www.linkedin.com/in/panpan-xu/)  |                    [Lin Lee Cheong](https://www.linkedin.com/in/linleecheong)                     | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/) |
+
+
+
+<!--- 
+{% include my-gallery.html folder="myfolder" %}
+
+<p align="middle">
+ <figure>
+  <img src="./images/huan.jpg" alt="Trulli" style="width:32%">
+  <figcaption>Huan Song</figcaption>
+ </figure> 
+ <figure>
+  <img src="./images/huan.jpg" alt="Trulli" style="width:32%">
+  <figcaption>Huan Song</figcaption>
+ </figure> 
+ <figure>
+  <img src="./images/huan.jpg" alt="Trulli" style="width:32%">
+  <figcaption>Huan Song</figcaption>
+ </figure> 
+</p>
+
+<p align="middle">
+
+  <img src="./images/huan.jpg" width="32%" />
+  <img src="./images/henry.jpg" width="32%" /> 
+  <img src="./images/henry.jpg" width="32%" />
+</p>
+
+
 * **Huan Song** is an Applied Scientist with the Amazon ML Solutions Lab team at AWS, where he works on delivering custom ML solutions for high-impact customer use cases from a variety of industry verticals. His research interests are graph neural networks, computer vision, time series analysis and their industrial applications.
 
 * **Panpan Xu** is a Senior Applied Scientist and Manager with the Amazon ML Solutions Lab team at AWS. She is working on research and development of ML-solutions for high-impact customer applications in a variety of industrial verticals including sports, manufacturing, finance to accelerate their AI and cloud adoption. Her research interests include model interpretability, causal analysis, human-in-the-loop AI and interactive data visualization.
@@ -92,7 +126,7 @@ Computer Science and Engineering from the Hong Kong University of Science and Te
 * **Lin Lee Cheong** is an Applied Science Manager with the Amazon ML Solutions Lab team at AWS. She works with strategic AWS customers to explore and apply AI and ML to discover new insights and solve complex problems. Her research interests include natural language processing, time-series analysis, model explainability, and AI applied to sports analytics, healthcare and industrial applications. She has served as a judge on the NFL Big Data Bowl competition in 2020 and 2022, and has lead engagements and collaborations with NFL from 2019 to present.
 
 * **Henry Wang** is an applied scientist with the Amazon ML Solutions Lab team at AWS, where he builds innovative ML solutions to solve complex business problems for AWS customers. His passion is applied research on reinforcement learning, computer vision and time series across industries. Outside of work, he’s a tennis and golf maniac.
-
+--->
 
 
 
