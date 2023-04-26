@@ -47,6 +47,8 @@ NOT be listed. Papers will be evaluated on, but not necessarily limited to, the 
 Accepted papers will be presented as posters during the workshop and listed on this website (non-archival/without proceedings). 
 A small number of accepted papers will be selected to present during the workshop as contributed talks. 
 
+Please visit **[this link](https://openreview.net/group?id=KDD.org/2023/Workshop/DSAI4Sports)** for your submission. 
+
 Any questions may be directed to the workshop email address: **kdd.dsai4sports@gmail.com**.
 
 ## Key Dates
