@@ -86,6 +86,12 @@ ACM CHI, and TVCG, and received three best paper nominations in IEEE VIS, the pr
 Before joining Harvard, he was a PostDoc in the Design Lab at UC San Diego. Zhutian received his Ph.D. in 
 Computer Science and Engineering from the Hong Kong University of Science and Technology.
 
+<img align="left" src="./images/phil.png" alt="Zhutian Chen">
+
+[**Phil Martin**](https://www.linkedin.com/in/philip-martin-7853ab7a/) serves as the VP of Data Products and ML Strategy at FOX Corporation. During his six-year tenure at FOX, Phil has spearheaded the creation of several products that utilize FOX’s vast data sets to boost fan engagement across all platforms. Most notably, Phil’s team recently launched “Catch Up TV with Highlights,” which utilizes the AWS machine learning framework and models to provide autonomous recaps to viewers who tune in mid-broadcast for events such as Men’s World Cup 2023, MLB 2023 season, and USFL 2023 season.
+Phil is responsible for the creation of FOX’s contextual ad engine, optimized regional programming and forecaster, as well as the “Foresight” which enables live production to utilize real-time and historical sports data to effortlessly convey situational and relevant stories.
+Phil’s passion for product development and advanced solutions, along with his love for sports, drives him to continuously improve FOX’s linear and digital properties, making them the premier destination for sports content engagement.
+
 
 ## Workshop Organizers
 
