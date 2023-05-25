@@ -53,8 +53,8 @@ Any questions may be directed to the workshop email address: **kdd.dsai4sports@g
 
 ## Key Dates
 * **Submissions Open**: May 5th, 2023
-* **Workshop Paper Submission**: May 26th, 2023
-* **Workshop Paper Notification**: June 13th, 2023
+* **Workshop Paper Submission**: ~~May 26th, 2023~~ June 7th, 2023
+* **Workshop Paper Notification**: ~~June 13th, 2023~~ June 26th, 2023
 * **Camera/Poster Ready**: July 21st, 2023
 * **Workshop Date**: August 7th, 2023
 
