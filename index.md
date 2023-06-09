@@ -77,14 +77,7 @@ Any questions may be directed to the workshop email address: **kdd.dsai4sports@g
 
 <img align="left" src="./images/zhutian-smaller.jpeg" alt="Zhutian Chen">
 
-[**Zhutian (Zhu-Tian) Chen**](https://chenzhutian.org/) is a PostDoc Fellow in the Visual Computing Group at Harvard University. His research is at the 
-intersection of Data Visualization, Human-Computer Interaction, and Augmented Reality. Specifically, he is interested 
-in improving the game-watching experience of sports by using embedded visualizations. He has developed a set of human-AI 
-systems that allow general users to efficiently visualize data into sports videos through natural interactions such as 
-touch, speech, and gaze interactions. His research has been published as full papers in top venues such as IEEE VIS, 
-ACM CHI, and TVCG, and received three best paper nominations in IEEE VIS, the premier venue in data visualization. 
-Before joining Harvard, he was a PostDoc in the Design Lab at UC San Diego. Zhutian received his Ph.D. in 
-Computer Science and Engineering from the Hong Kong University of Science and Technology.
+[**Zhutian (Zhu-Tian) Chen**](https://chenzhutian.org/) is an incoming Assistant Professor of Computer Science at the University of Minnesota-Twin Cities and is currently a PostDoc Fellow in the Visual Computing Group at Harvard University. His research interests lie at the intersection of Data Visualization, Human-Computer Interaction, and Augmented / Virtual Reality (AR/VR). He is particularly interested in the potential of AR/VR technologies to enhance sports experiences. He has developed human-AI systems designed to enable users to visualize data within AR/VR sports scenes through natural interactions such as touch, speech, and gaze. His innovative work has been recognized and published in top-tier venues including IEEE VIS, ACM CHI, and TVCG, and has received a best paper award from ACM CHI and three best paper honorable mention awards from IEEE VIS.
 
 <img align="left" src="./images/phil.png" alt="Zhutian Chen">
 
