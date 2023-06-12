@@ -17,10 +17,11 @@ different modes of data to train multi-modal deep learning models.
 
 Even with this progress, the majority of AI/ML applications are still nascent. The DSAI4Sports workshop aims to bring 
 together interested researchers and practitioners at the intersection of AI/ML and sports analytics. 
+
+We are excited to announce that DSAI4Sports workshop is joining force with [KDD 2023 Entertainment, Sports and Media (ESM) Day](https://kddconference-esmday.github.io/KDD2023ESMDay/).
 We will offer a platform to exchange research ideas, identify research opportunities and challenges in 
 applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a 
-research community centered around this field.
-
+research community centered around this field. Both DSAI4Sports workshop and the ESM Day will take place on the same day (Aug 7th) and in same conference room (details to come).
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~. --->
 
