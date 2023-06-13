@@ -12,11 +12,20 @@ These insights were traditionally achieved through carefully designed statistica
 and availability of large-scale datasets, breakthroughs and new understandings have been achieved via the application 
 of AI/ML methods. This includes using sequence modeling to determine optimal path trajectories with real-time sensor data 
 from players/equipment, applying computer vision models to game footage to capture important events, or training large 
-language models to summarize large corpus of game-related commentaries. Some sports have progressed to syncing these 
-different modes of data to train multi-modal deep learning models.
+language models to summarize large corpus of game-related commentaries. 
 
-Even with this progress, the majority of AI/ML applications are still nascent. The DSAI4Sports workshop aims to bring 
-together interested researchers and practitioners at the intersection of AI/ML and sports analytics. 
+<!---Some sports have progressed to syncing these different modes of data to train multi-modal deep learning models.--->
+
+In particular, **generative AI (GAI)** has emerged as a powerful tool for understanding and enhancing various aspects of 
+sprots performance and strategy. By generating realistic data samples the closely resemble the characteristics of the 
+original training data, GAI has found wide-ranging applications in various domains, including computer vision, 
+natural language processing, and now, sports analytics. **The opportunities that leverage GAI for sports analytics** include and are not limited to: 
+sport-specific foundational models,
+game scenarios simulation, 
+automated play generation, natural language-based strategy optimization and sport narrative generation etc.
+
+The DSAI4Sports workshop aims to bring 
+together interested researchers and practitioners at the intersection of data science, GAI, ML and sports analytics. 
 
 We are excited to announce that DSAI4Sports workshop is joining force with [KDD 2023 Entertainment, Sports and Media (ESM) Day](https://kddconference-esmday.github.io/KDD2023ESMDay/).
 We will offer a platform to exchange research ideas, identify research opportunities and challenges in 
@@ -36,7 +45,7 @@ The core topic of the workshop is on Data Science, AI, and ML-based approaches f
 * _Player centric analysis_: player health tracking, gait and pose estimation and evaluation, etc.
 * _Non-player activities_: predictive or active forecasting of wear and tear of equipment (e.g. cars), automated sports commentary generation, automatic event detection and highlight generation using footage, audience/fan engagement strategies, etc.
 
-The DS/AI/ML methods that address the above use cases span spatial-temporal data modeling, time-series analysis, computer vision, explainable AI, reinforcement learning, natural language processing, multi-modal learning and others. We welcome both industrial and academic papers submissions.
+The DS/AI/ML methods that address the above use cases span generative AI, spatial-temporal data modeling, time-series analysis, computer vision, explainable AI, reinforcement learning, natural language processing, multi-modal learning and others. We welcome both industrial and academic papers submissions.
 
 
 The submission to the workshop must be in maximum length of
@@ -60,10 +69,10 @@ Any questions may be directed to the workshop email address: **kdd.dsai4sports@g
 * **Workshop Date**: August 7th, 2023
 
 ## Tentative Program
-* 08:00 - 09:00AM Keynote talks
-* 09:00 - 10:30AM Paper presentations
-* 10:30 - 11:00AM Poster session
-* 11:00AM - 12:00PM Panel discussion
+* 08:00 - 09:30AM Keynote talks
+* 09:30 - 10:30AM Paper presentations
+* 10:30 - 11:15AM Generative AI for sports analytics
+* 11:15AM - 12:00PM Panel discussion
 
 ## Invited Speakers
 
