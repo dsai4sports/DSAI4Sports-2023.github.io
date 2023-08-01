@@ -1,85 +1,73 @@
 ---
 layout: default
 ---
-
-
 <h1 style="text-align: center;">Welcome to DSAI4Sports 2023!</h1>
 
-Sports analytics combines advanced analytics, domain knowledge and computational methods on sports data to generate 
-insights and deepen understanding into the various aspects of sports. This includes predicting most likely event outcomes, 
-identifying optimal strategies, understanding individual and collective performance, estimating player potential, etc. 
-These insights were traditionally achieved through carefully designed statistical methods. But with the recent creation 
-and availability of large-scale datasets, breakthroughs and new understandings have been achieved via the application 
-of AI/ML methods. This includes using sequence modeling to determine optimal path trajectories with real-time sensor data 
-from players/equipment, applying computer vision models to game footage to capture important events, or training large 
-language models to summarize large corpus of game-related commentaries. 
+We are excited to announce that DSAI4Sports workshop is joining force with [KDD 2023 Entertainment, Sports and Media (ESM) Day](https://kddconference-esmday.github.io/KDD2023ESMDay/).
+We will offer a platform to exchange research ideas, identify research opportunities and challenges in
+applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a
+research community centered around this field. Both DSAI4Sports workshop and the ESM Day will take place on Aug 7th and in same conference room.
+
+
+
+Sports analytics combines advanced analytics, domain knowledge and computational methods on sports data to generate
+insights and deepen understanding into the various aspects of sports. This includes predicting most likely event outcomes,
+identifying optimal strategies, understanding individual and collective performance, estimating player potential, etc.
+These insights were traditionally achieved through carefully designed statistical methods. But with the recent creation
+and availability of large-scale datasets, breakthroughs and new understandings have been achieved via the application
+of AI/ML methods. This includes using sequence modeling to determine optimal path trajectories with real-time sensor data
+from players/equipment, applying computer vision models to game footage to capture important events, or training large
+language models to summarize large corpus of game-related commentaries.
 
 <!---Some sports have progressed to syncing these different modes of data to train multi-modal deep learning models.--->
 
-In particular, **generative AI (GAI)** has emerged as a powerful tool for understanding and enhancing various aspects of 
-sprots performance and strategy. By generating realistic data samples the closely resemble the characteristics of the 
-original training data, GAI has found wide-ranging applications in various domains, including computer vision, 
-natural language processing, and now, sports analytics. **The opportunities that leverage GAI for sports analytics** include and are not limited to: 
+In particular, **generative AI (GAI)** has emerged as a powerful tool for understanding and enhancing various aspects of
+sprots performance and strategy. By generating realistic data samples the closely resemble the characteristics of the
+original training data, GAI has found wide-ranging applications in various domains, including computer vision,
+natural language processing, and now, sports analytics. **The opportunities that leverage GAI for sports analytics** include and are not limited to:
 sport-specific foundational models,
-game scenarios simulation, 
+game scenarios simulation,
 automated play generation, natural language-based strategy optimization and sport narrative generation etc.
 
-The DSAI4Sports workshop aims to bring 
-together interested researchers and practitioners at the intersection of data science, GAI, ML and sports analytics. 
-
-We are excited to announce that DSAI4Sports workshop is joining force with [KDD 2023 Entertainment, Sports and Media (ESM) Day](https://kddconference-esmday.github.io/KDD2023ESMDay/).
-We will offer a platform to exchange research ideas, identify research opportunities and challenges in 
-applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a 
-research community centered around this field. Both DSAI4Sports workshop and the ESM Day will take place on the same day (Aug 7th) and in same conference room (details to come).
+The DSAI4Sports workshop aims to bring
+together interested researchers and practitioners at the intersection of data science, GAI, ML and sports analytics.
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~. --->
 
+## Accepted Papers
+
+* [&#34;Beep: Balancing Effectiveness and Efficiency when Finding Multivariate Patterns in Racket Sports&#34;](https://openreview.net/pdf?id=-UMsnJu7Hb), Jiang Wu, Dongyu Liu, Ziyang Guo, and Yingcai Wu.
+* [&#34;The CoachAI Badminton Environment: Improving Badminton Player Tactics with A Novel Reinforcement Learning Environment&#34;](https://openreview.net/pdf?id=1iF4mW4RHv0), Kuang-Da Wang, Yu-Tse Chen, Yu-Heng Lin, Wei-Yao Wang, and Wen-Chih Peng.
+* [&#34;RallyGraph: Specialized Graph Encoding for Enhanced Volleyball Prediction&#34;](https://openreview.net/pdf?id=lCAX_3uZJ4L), Rhys Tracy, Haotian Xia, Alex Rasla, Yuan-Fang Wang, and Ambuj Singh.
+
+## Program Schedule
+
+Time: Aug 7 (Monday), 2023 | 8am - 5:30pm
+
+Room: 101A
 
 
-## Call For Papers
+|     Time      |    Domain     | Title                                                                 | Speaker(s)                                                                     | 
+|:-------------:|:-------------:|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------| 
+| 8:00 -  8:10  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
+| 8:10 -  9:00  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
+| 9:00 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
+| 9:50 - 10:10 |   	|  Coffee Break                                |     |   
+| 10:10 - 11:00 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
+| 11:00 - 12:00 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | [Adam Husein](https://www.linkedin.com/in/ahusein/), [Tracey Ho](https://www.linkedin.com/in/traceych/), [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)                                                                    |
+| 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
+| 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
+| 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
+| 15:00 - 16:00 |    Sports     | Paper Presentations	                                         | To be added 	                                                                  |
+| 16:00 - 16:45 |     Panel     | Sports Panel Discussion	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/), [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/), [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)  	                                                                  |
+| 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	       |
 
-The core topic of the workshop is on Data Science, AI, and ML-based approaches for sports analytics, covering a broad range of sports activities like football, soccer, volleyball, badminton, tennis, basketball, golf, table tennis, hockey, car racing, swimming, and e-sports. We invite papers that demonstrate AI/ML use cases in the following broad (potentially overlapping) categories:
-
-* _Team sports analytics_: player interaction detection and tracking, team-based strategy identification and optimization, opponent strategy analysis, etc.
-* _Ball centric analysis_: ball tracking and trajectory prediction, outcome prediction, etc.
-* _Player centric analysis_: player health tracking, gait and pose estimation and evaluation, etc.
-* _Non-player activities_: predictive or active forecasting of wear and tear of equipment (e.g. cars), automated sports commentary generation, automatic event detection and highlight generation using footage, audience/fan engagement strategies, etc.
-
-The DS/AI/ML methods that address the above use cases span generative AI, spatial-temporal data modeling, time-series analysis, computer vision, explainable AI, reinforcement learning, natural language processing, multi-modal learning and others. We welcome both industrial and academic papers submissions.
-
-
-The submission to the workshop must be in maximum length of
-4 pages, excluding references. Papers must be submitted in PDF
-format, and formatted according to the [Standard ACM Conference
-Proceedings Style](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primaryarticle-template/wbvnghjbzwpc). 
-The review process is double-blind, and author names and affiliations should
-NOT be listed. Papers will be evaluated on, but not necessarily limited to, the novelty, validity, and application impact.
-Accepted papers will be presented as posters during the workshop and listed on this website (non-archival/without proceedings). 
-A small number of accepted papers will be selected to present during the workshop as contributed talks. 
-
-Please visit **[this link](https://openreview.net/group?id=KDD.org/2023/Workshop/DSAI4Sports)** for your submission. 
-
-Any questions may be directed to the workshop email address: **kdd.dsai4sports@gmail.com**.
-
-## Key Dates
-* **Submissions Open**: May 5th, 2023
-* **Workshop Paper Submission**: ~~May 26th, 2023~~ June 7th, 2023
-* **Workshop Paper Notification**: ~~June 13th, 2023~~ June 26th, 2023
-* **Camera/Poster Ready**: July 21st, 2023
-* **Workshop Date**: August 7th, 2023
-
-## Tentative Program
-* 08:00 - 09:30AM Keynote talks
-* 09:30 - 10:30AM Paper presentations
-* 10:30 - 11:15AM Generative AI for sports analytics
-* 11:15AM - 12:00PM Panel discussion
 
 ## Invited Speakers
 
 <img align="left" src="./images/mike-smaller.jpg" alt="Mike Band">
 
 [**Mike Band**](https://www.nfl.com/author/mike-band) is a Senior Manager of Research and Analytics for Next Gen Stats at the National Football League. Since joining the team in 2018, he has been responsible for ideation, development, and communication of key stats and insights derived from player-tracking data for fans, NFL broadcast partners, and the 32 clubs alike. Mike brings a wealth of knowledge and experience to the team with a master’s degree in analytics from the University of Chicago, a bachelor's degree in sport management from the University of Florida, and experience in both the scouting department of the Minnesota Vikings and the recruiting department of Florida Gator Football.
-
 
 <!--- 
 **Phil Martin**, Vice President of Data Products and ML Strategy at Fox Corporation. 
@@ -95,14 +83,52 @@ Any questions may be directed to the workshop email address: **kdd.dsai4sports@g
 Phil is responsible for the creation of FOX’s contextual ad engine, optimized regional programming and forecaster, as well as the “Foresight” which enables live production to utilize real-time and historical sports data to effortlessly convey situational and relevant stories.
 Phil’s passion for product development and advanced solutions, along with his love for sports, drives him to continuously improve FOX’s linear and digital properties, making them the premier destination for sports content engagement.
 
+## Call For Papers
+
+The core topic of the workshop is on Data Science, AI, and ML-based approaches for sports analytics, covering a broad range of sports activities like football, soccer, volleyball, badminton, tennis, basketball, golf, table tennis, hockey, car racing, swimming, and e-sports. We invite papers that demonstrate AI/ML use cases in the following broad (potentially overlapping) categories:
+
+* _Team sports analytics_: player interaction detection and tracking, team-based strategy identification and optimization, opponent strategy analysis, etc.
+* _Ball centric analysis_: ball tracking and trajectory prediction, outcome prediction, etc.
+* _Player centric analysis_: player health tracking, gait and pose estimation and evaluation, etc.
+* _Non-player activities_: predictive or active forecasting of wear and tear of equipment (e.g. cars), automated sports commentary generation, automatic event detection and highlight generation using footage, audience/fan engagement strategies, etc.
+
+The DS/AI/ML methods that address the above use cases span generative AI, spatial-temporal data modeling, time-series analysis, computer vision, explainable AI, reinforcement learning, natural language processing, multi-modal learning and others. We welcome both industrial and academic papers submissions.
+
+The submission to the workshop must be in maximum length of
+4 pages, excluding references. Papers must be submitted in PDF
+format, and formatted according to the [Standard ACM Conference
+Proceedings Style](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primaryarticle-template/wbvnghjbzwpc).
+The review process is double-blind, and author names and affiliations should
+NOT be listed. Papers will be evaluated on, but not necessarily limited to, the novelty, validity, and application impact.
+Accepted papers will be presented as posters during the workshop and listed on this website (non-archival/without proceedings).
+A small number of accepted papers will be selected to present during the workshop as contributed talks.
+
+Please visit **[this link](https://openreview.net/group?id=KDD.org/2023/Workshop/DSAI4Sports)** for your submission.
+
+Any questions may be directed to the workshop email address: **kdd.dsai4sports@gmail.com**.
+
+## Key Dates
+
+* **Submissions Open**: May 5th, 2023
+* **Workshop Paper Submission**: ~~May 26th, 2023~~ June 7th, 2023
+* **Workshop Paper Notification**: ~~June 13th, 2023~~ June 26th, 2023
+* **Camera/Poster Ready**: July 21st, 2023
+* **Workshop Date**: August 7th, 2023
 
 ## Workshop Organizers
 
-| ![Huan Song](images/huan-resize.jpg){:width="164"} | ![Panpan Xu](images/panpan-resize.png){:width="164"} | ![Lin Lee Cheong](images/linlee-resize.jpg){:width="164"} |          ![Henry Wang](images/henry-resize.jpg){:width="164"}           |
-|:--------------------------------------------------:|:----------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------------:|
-|  [Huan Song](https://www.linkedin.com/in/huans/)   | [Panpan Xu](https://www.linkedin.com/in/panpan-xu/)  |                    [Lin Lee Cheong](https://www.linkedin.com/in/linleecheong)                     | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/) |
+| ![Huan Song](images/huan-resize.jpg){:width="164"} | ![Panpan Xu](images/panpan-resize.png){:width="164"} | ![Lin Lee Cheong](images/linlee-resize.jpg){:width="164"} |          ![Henry Wang](images/henry-resize.jpg){:width="164"}          |
+| :----------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------------------: |
+|   [Huan Song](https://www.linkedin.com/in/huans/)   |  [Panpan Xu](https://www.linkedin.com/in/panpan-xu/)  | [Lin Lee Cheong](https://www.linkedin.com/in/linleecheong) | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/) |
 
+## Acknowledgement
 
+We thank the program committee for the help in workshop organization and paper reviews:
+
+* Zhutian (Zhu-Tian) Chen, University of Minnesota-Twin Cities
+* Chen Zhao, NYU
+* Zihao Xu, McKinsey
+* Sameeksha Katoch, Qualcomm Research
 
 <!--- 
 {% include my-gallery.html folder="myfolder" %}
@@ -138,8 +164,6 @@ Phil’s passion for product development and advanced solutions, along with his 
 
 * **Henry Wang** is an applied scientist with the Amazon ML Solutions Lab team at AWS, where he builds innovative ML solutions to solve complex business problems for AWS customers. His passion is applied research on reinforcement learning, computer vision and time series across industries. Outside of work, he’s a tennis and golf maniac.
 --->
-
-
 
 <!--- 
 ## Header 2
